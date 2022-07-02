@@ -173,8 +173,18 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="resume.pdf" target="_blank" rel="noopener noreferrer">
       Resume
+    </a>
+  );
+
+  const BlogLink = (
+    <a
+      className="resume-button"
+      href="https://blog.kiranmuddam.com"
+      target="_blank"
+      rel="noopener noreferrer">
+      Blog
     </a>
   );
 
@@ -194,6 +204,7 @@ const Nav = ({ isHome }) => {
                     </li>
                   ))}
               </ol>
+              <div>{BlogLink}</div>
               <div>{ResumeLink}</div>
             </StyledLinks>
 
@@ -228,6 +239,7 @@ const Nav = ({ isHome }) => {
                 {isMounted && (
                   <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                     <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
+                      {BlogLink}
                       {ResumeLink}
                     </div>
                   </CSSTransition>
