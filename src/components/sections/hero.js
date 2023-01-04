@@ -83,7 +83,7 @@ const Hero = () => {
       <span role="img" aria-label="love">
         👨‍💻
       </span>{' '}
-      Actively looking for software engineering opportunites.
+      Currently Working as Web3 Full Stack Engineer at GooseFx.
     </a>
   );
 
