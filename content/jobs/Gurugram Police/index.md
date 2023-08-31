@@ -5,6 +5,7 @@ company: 'Gurugram Police, Cyber Cell'
 location: 'Gurugram, In'
 range: ''
 url: 'http://gurgaon.haryanapolice.gov.in/'
+display: 'true'
 ---
 
 - Engineered a software project named TIGMINT, to perform open social media intelligence (OSINT) analysis.

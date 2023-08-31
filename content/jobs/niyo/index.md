@@ -5,10 +5,9 @@ company: 'Niyo Solutions Inc'
 location: 'Bangalore, In'
 range: ''
 url: 'https://goniyo.com/'
+display: 'true'
 ---
 
-- Worked in the tech engineering team, built scalable microservices to facilitate payments for 1.5+ million customers.
-- Designed and developed Auto-Debit payments microservice based on event-based architecture handling end-to-end
-  transactions, error streaming, and event streaming using Apache Kafka.
-- Technologies: Microservices, Nest.js (Node.js backend framework), TypeScript, MongoDB, JavaScript, Kafka, Docker,
-  AWS.
+- Developed scalable payment microservices, leading to a seamless experience for 1 million+ users across the business.
+- Revolutionized Transformed payment systems: Engineered microservice for transactions, subscriptions, and auto-debits, introducing an event-driven Auto-Debit system with Apache Kafka, reducing transaction errors by 40%.
+- Demonstrated expertise in Node.js, TypeScript, MongoDB, JavaScript, Docker, and AWS for development, ensuring reliable solutions.

@@ -173,17 +173,17 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a
+      className="resume-button"
+      href="https://github.com/kiranmuddam"
+      target="_blank"
+      rel="noopener noreferrer">
+      Github
     </a>
   );
 
   const BlogLink = (
-    <a
-      className="resume-button"
-      href="https://blog.kiranmuddam.com"
-      target="_blank"
-      rel="noopener noreferrer">
+    <a className="resume-button" href="/blog" rel="noopener noreferrer">
       Blog
     </a>
   );

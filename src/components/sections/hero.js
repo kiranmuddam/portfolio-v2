@@ -59,7 +59,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Kiran Babu Muddam</h2>;
+  const two = <h2 className="big-heading">Kiran Muddam</h2>;
   const three = (
     <h3 className="big-heading">
       I{' '}
@@ -72,9 +72,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Full Stack Software Engineer with a demonstrated history of working in the Web2 & Web3
-        software engineering industry, with end-to-end experience in developing, testing, and
-        maintaining enterprise software applications.
+        Full-Stack Software Engineer with expertise in designing and developing large-scale
+        applications for fast-paced Web2 and Web3 startups. Proficient in various programming
+        languages and frameworks, passionate about problem-solving and high-impact projects.
       </p>
     </>
   );
@@ -83,7 +83,7 @@ const Hero = () => {
       <span role="img" aria-label="love">
         👨‍💻
       </span>{' '}
-      Currently Working as Web3 Full Stack Engineer at GooseFx.
+      Currently Working as Software Engineer - Full Stack at GooseFX.
     </a>
   );
 

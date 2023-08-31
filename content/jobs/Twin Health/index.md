@@ -5,6 +5,7 @@ company: 'Twin Health Inc'
 location: 'Bangalore, In'
 range: ''
 url: 'https://ind.twinhealth.com/'
+display: 'false'
 ---
 
 - Worked in the clinic automation engineering team and built core clinic platform, integrations, clinic UI, and APIs.

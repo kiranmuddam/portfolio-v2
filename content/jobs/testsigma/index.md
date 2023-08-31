@@ -5,6 +5,7 @@ company: 'Testsigma Inc'
 location: 'Bangalore, In'
 range: ''
 url: 'https://testsigma.com/'
+display: 'true'
 ---
 
 - Built mobile inspection licensing module to test Android & IOS apps in the browser across 2000+ real mobile devices.

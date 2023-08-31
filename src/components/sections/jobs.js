@@ -179,6 +179,7 @@ const Jobs = () => {
               location
               range
               url
+              display
             }
             html
           }
@@ -187,7 +188,17 @@ const Jobs = () => {
     }
   `);
 
-  const jobsData = data.jobs.edges;
+  function checkDisplay(node) {
+    if (node.node.frontmatter.display === 'false') {
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  let jobsData = data.jobs.edges;
+
+  jobsData = jobsData.filter(checkDisplay);
 
   const [activeTabId, setActiveTabId] = useState(0);
   const [tabFocus, setTabFocus] = useState(null);
@@ -251,6 +262,7 @@ const Jobs = () => {
           {jobsData &&
             jobsData.map(({ node }, i) => {
               const { company } = node.frontmatter;
+
               return (
                 <StyledTabButton
                   key={i}
