@@ -7,7 +7,7 @@ module.exports = {
       'Full Stack Software Engineer with a demonstrated history of working in the Web2 & Web3 software engineering industry,',
     siteUrl: 'https://kiranmuddam.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@kiranmuddam',
+    twitterUsername: '@0x_kiran',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
