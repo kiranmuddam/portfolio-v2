@@ -8,8 +8,9 @@ url: 'https://testsigma.com/'
 display: 'true'
 ---
 
-- Built mobile inspection licensing module to test Android & IOS apps in the browser across 2000+ real mobile devices.
-- Developed an automated end-to-end two-factor authentication (2FA) testing module for Android, IOS, Web platforms.
-- Rewrote the business product licensing formula in SQL and integrated it into the platform.
-- Developed and Integrated Kobiton platform as a plugin to perform test automation on 300+ real mobile devices.
-- Technologies: Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, and AWS
+- Developed a cloud based mobile inspection module for automated end-to-end Android/IOS application testing.
+- Built an automated two-factor authentication testing module for Mobile and Web platforms, reducing manual effort
+- Revamped the business licensing formula in SQL and integrated it into the platform, optimizing licensing management
+- Integrated Kobiton platform as a plugin to perform test automation on 300+ real mobile devices.
+- Demonstrated expertise in Java, Spring Boot, MySQL, JavaScript, TypeScript, Angular, and AWS for efficient and
+scalable development.
