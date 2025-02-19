@@ -127,19 +127,15 @@ const About = () => {
 
   const skills = [
     'Rust',
-    'Java',
-    'C/C++',
-    'JavaScript (ES6+)',
     'TypeScript',
     'React',
-    'Angular',
     'Node.js',
-    'MySQL',
     'Solana',
     'Postgres',
     'MongoDB',
     'Smart Contracts',
     'Anchor Framework',
+    'AWS'
   ];
 
   return (
@@ -149,11 +145,10 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Kiran and I currently work as a Full Stack Software Engineer.</p>
+            <p>I'm Kiran Muddam, a Full Stack Engineer specializing in Solana blockchain development. At Renzo Labs, I lead development of restaking vaults with $100M+ in TVL, architecting smart contracts and automated systems.</p>
 
             <p>
-              Specialized in full-stack development, Rust, Solana, React, Anchor, Java, C++, Python,
-              Spring Boot, Angular, JavaScript, Git, Rest API, and cloud services.
+             Previously at GooseFX, I built DeFi platforms handling $700M+ in volume and NFT marketplaces supporting 1.5M+ assets. I'm passionate about open-source contributions and creating high-performance blockchain solutions.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
