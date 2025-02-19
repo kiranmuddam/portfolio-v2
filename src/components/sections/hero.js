@@ -72,9 +72,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Full-Stack Software Engineer with expertise in designing and developing large-scale
-        applications for fast-paced Web2 and Web3 startups. Proficient in various programming
-        languages and frameworks, passionate about problem-solving and high-impact projects.
+        I'm a Rust and blockchain engineer building high-impact DeFi systems on Solana. At Renzo Labs, I lead development of restaking vaults managing $100M+ in TVL. Passionate about solving complex problems, I specialize in creating secure, scalable financial infrastructure that delivers real-world value.
       </p>
     </>
   );
@@ -83,7 +81,7 @@ const Hero = () => {
       <span role="img" aria-label="love">
         👨‍💻
       </span>{' '}
-      Currently Working as Software Engineer - Full Stack at GooseFX.
+      Currently Working as a Software Engineer at Renzo Labs.
     </a>
   );
 
