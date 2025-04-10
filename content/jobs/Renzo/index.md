@@ -13,4 +13,4 @@ display: 'true'
 - Developed comprehensive CLI toolkit for testing, multisig operations, and deployment workflow.
 - Engineered automated systems for vault management, operator delegations, and rewards distribution using Rust
 - Built scalable TypeScript modules for multi-token swaps, contract interactions, and core platform operations.
-- Demonstrated expertise in Rust, Anchor, Smart Contracts, TypeScript, React, AWS, Postgres, and APIs.
+- Demonstrated expertise in Rust, Anchor, Smart Contracts, TypeScript, React, AWS, Postgres, and API's.
