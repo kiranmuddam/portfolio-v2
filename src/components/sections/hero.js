@@ -72,7 +72,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Rust and blockchain engineer building high-impact DeFi systems on Solana. At Renzo Labs, I lead development of restaking vaults managing $100M+ in TVL. Passionate about solving complex problems, I specialize in creating secure, scalable financial infrastructure that delivers real-world value.
+        Full Stack Rust Engineer with 5+ years building scalable backend systems, including 4 years on Solana developing DeFi protocols and smart contracts, with expertise managing $100M+ TVL and facilitating $700M+ in trading volume.
       </p>
     </>
   );
